@@ -2,7 +2,7 @@
 * Author: Ellie Allen
 *  Date: 2021/08/26
 *
-* Hack 1 
+* Hack 1
 *
 */
 #include <stdlib.h>
@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv)
 {
-    printf("Ellie Allen \n");
+    printf("Ellie Allen! \n");
+    printf("Computer Science\n");
 
     return 0;
 }
